@@ -1,0 +1,194 @@
+[
+  {
+    "originalFilename": "Devsprint.jpeg",
+    "category": "Certificate",
+    "associatedEvent": "DevSprint Mini Hackathon",
+    "format": "JPEG",
+    "recommendedUsage": "Winner certificate",
+    "processingStatus": "Cropped to paper edges and exported as readable WebP"
+  },
+  {
+    "originalFilename": "Devsprint (1).jpg",
+    "category": "Event photo",
+    "associatedEvent": "DevSprint Mini Hackathon",
+    "format": "JPG",
+    "recommendedUsage": "Team photo with certificate",
+    "processingStatus": "Resized and exported as WebP; original preserved"
+  },
+  {
+    "originalFilename": "Devsprint (2).jpg",
+    "category": "Event photo",
+    "associatedEvent": "DevSprint Mini Hackathon",
+    "format": "JPG",
+    "recommendedUsage": "Hackathon room photo",
+    "processingStatus": "Resized and exported as WebP; original preserved"
+  },
+  {
+    "originalFilename": "Hack-it-out.png",
+    "category": "Certificate",
+    "associatedEvent": "Hack-It-Out 2.0",
+    "format": "PNG",
+    "recommendedUsage": "Winner - Logical Track certificate",
+    "processingStatus": "Cropped to paper edges and exported as readable WebP"
+  },
+  {
+    "originalFilename": "Hack-it-out  (1).jpg",
+    "category": "Event photo",
+    "associatedEvent": "Hack-It-Out 2.0",
+    "format": "JPG",
+    "recommendedUsage": "Team recognition photo",
+    "processingStatus": "Resized and exported as WebP; original preserved"
+  },
+  {
+    "originalFilename": "Hack-it-out  (2).jpg",
+    "category": "Event photo",
+    "associatedEvent": "Hack-It-Out 2.0",
+    "format": "JPG",
+    "recommendedUsage": "Hack-It-Out team photo with trophies",
+    "processingStatus": "Resized and exported as WebP; original preserved"
+  },
+  {
+    "originalFilename": "Robotic and automation.jpeg",
+    "category": "Certificate",
+    "associatedEvent": "Robotics and Automation Workshop",
+    "format": "JPEG",
+    "recommendedUsage": "Workshop completion certificate",
+    "processingStatus": "Cropped to paper edges and exported as readable WebP"
+  },
+  {
+    "originalFilename": "Robotic and automation (1).jpeg",
+    "category": "Project photo",
+    "associatedEvent": "Robotics and Automation Workshop",
+    "format": "JPEG",
+    "recommendedUsage": "Robot prototype photo",
+    "processingStatus": "Resized and exported as WebP; original preserved"
+  },
+  {
+    "originalFilename": "Robotic and automation (2).jpeg",
+    "category": "Event photo",
+    "associatedEvent": "Robotics and Automation Workshop",
+    "format": "JPEG",
+    "recommendedUsage": "Workshop group photo",
+    "processingStatus": "Resized and exported as WebP; original preserved"
+  },
+  {
+    "originalFilename": "SIH 1 internal.jpeg",
+    "category": "Certificate",
+    "associatedEvent": "SIH Internal Hackathon 2025",
+    "format": "JPEG",
+    "recommendedUsage": "Team Syntex Error participation certificate scan 1",
+    "processingStatus": "Cropped to paper edges and exported as readable WebP"
+  },
+  {
+    "originalFilename": "TSEC hackthon SIH 1.jpeg",
+    "category": "Certificate",
+    "associatedEvent": "SIH Internal Hackathon 2025",
+    "format": "JPEG",
+    "recommendedUsage": "Team Syntex Error participation certificate scan 2",
+    "processingStatus": "Preserved existing WebP derivative in public/certificates"
+  },
+  {
+    "originalFilename": "SIH 2 internal.jpeg",
+    "category": "Certificate",
+    "associatedEvent": "AICTE SIH Internal Hackathon 2026",
+    "format": "JPEG",
+    "recommendedUsage": "Team MINE-X participation certificate",
+    "processingStatus": "Cropped to paper edges and exported as readable WebP"
+  },
+  {
+    "originalFilename": "Hackspark 2.0.jpeg",
+    "category": "Certificate",
+    "associatedEvent": "HACKSPARK 2.0",
+    "format": "JPEG",
+    "recommendedUsage": "Participation certificate",
+    "processingStatus": "Cropped to paper edges and exported as readable WebP"
+  },
+  {
+    "originalFilename": "Yatri.png",
+    "category": "Certificate",
+    "associatedEvent": "Yatri Hackathon 2025",
+    "format": "PNG",
+    "recommendedUsage": "Round 1 qualification certificate",
+    "processingStatus": "Cropped to paper edges and exported as readable WebP"
+  },
+  {
+    "originalFilename": "Yatri (1).jpeg",
+    "category": "Project photo",
+    "associatedEvent": "Yatri Hackathon 2025",
+    "format": "JPEG",
+    "recommendedUsage": "Journey Coders collaboration screenshot",
+    "processingStatus": "Resized and exported as WebP; original preserved"
+  },
+  {
+    "originalFilename": "Technical paper presentaion.jpeg",
+    "category": "Certificate",
+    "associatedEvent": "VORTEX 2025 - Technical Paper Presentation",
+    "format": "JPEG",
+    "recommendedUsage": "Participation certificate",
+    "processingStatus": "Cropped to paper edges and exported as readable WebP"
+  },
+  {
+    "originalFilename": "Tech teatoir.jpeg",
+    "category": "Certificate",
+    "associatedEvent": "Tech Traitors",
+    "format": "JPEG",
+    "recommendedUsage": "Participation certificate",
+    "processingStatus": "Cropped to paper edges and exported as readable WebP"
+  },
+  {
+    "originalFilename": "Modle making.jpeg",
+    "category": "Certificate",
+    "associatedEvent": "SYNAPSE 2025 - Model Making",
+    "format": "JPEG",
+    "recommendedUsage": "Participation certificate",
+    "processingStatus": "Cropped to paper edges and exported as readable WebP"
+  },
+  {
+    "originalFilename": "Mistrey event - Tech hunt.jpeg",
+    "category": "Certificate",
+    "associatedEvent": "Mystery Event - Tech Hunt",
+    "format": "JPEG",
+    "recommendedUsage": "Participation wording; third-place claim withheld pending review",
+    "processingStatus": "Cropped to paper edges and exported as readable WebP"
+  },
+  {
+    "originalFilename": "Innovriti.jpeg",
+    "category": "Certificate",
+    "associatedEvent": "INNOVRITTI 2025",
+    "format": "JPEG",
+    "recommendedUsage": "Pitching competition participation certificate",
+    "processingStatus": "Cropped to paper edges and exported as readable WebP"
+  },
+  {
+    "originalFilename": "DCA.jpeg",
+    "category": "Certificate",
+    "associatedEvent": "Diploma in Computer Applications",
+    "format": "JPEG",
+    "recommendedUsage": "Grade A, 84% completion record",
+    "processingStatus": "Cropped to paper edges and exported as readable WebP"
+  },
+  {
+    "originalFilename": "Brand storming.jpeg",
+    "category": "Certificate",
+    "associatedEvent": "Brand Storming",
+    "format": "JPEG",
+    "recommendedUsage": "Participation certificate",
+    "processingStatus": "Cropped to paper edges and exported as readable WebP"
+  },
+  {
+    "originalFilename": "Yatri.pdf",
+    "category": "Certificate document",
+    "associatedEvent": "Yatri Hackathon 2025",
+    "format": "PDF",
+    "recommendedUsage": "Original Round 1 qualification certificate viewer",
+    "processingStatus": "Copied unchanged to public/certificates/yatri.pdf"
+  },
+  {
+    "originalFilename": "Bharat_Patel_Resume.pdf",
+    "category": "Resume",
+    "associatedEvent": "Profile",
+    "format": "PDF",
+    "recommendedUsage": "Public resume download",
+    "processingStatus": "Copied unchanged to public/bharat-patel-resume.pdf"
+  }
+]
